@@ -21,4 +21,13 @@
      margin: 0 16px;
      font-size: 24px;
  }
+ .escola-imagem{ 
+    width: 25%;
+ }
+   
  
+ .escola{ 
+   background-image: -moz-linear-gradient(#424E61 )(#4EBFE9);
+   color: rgb(17, 12, 12) ; 
+   display: flex;
+ }
