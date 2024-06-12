@@ -21,13 +21,20 @@
      margin: 0 16px;
      font-size: 24px;
  }
- .escola-imagem{ 
+.escola-imagem{
     width: 25%;
- }
-   
- 
- .escola{ 
-   background-image: -moz-linear-gradient(#424E61 )(#4EBFE9);
-   color: rgb(17, 12, 12) ; 
-   display: flex;
- }
+}
+.escola{
+    background-color: rgb(29, 111, 150);
+    color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px 0;
+}
+.escola-div-conteudo{
+    width: 35%;
+}
+.escola-titulo{
+    padding:24px ;
+}
